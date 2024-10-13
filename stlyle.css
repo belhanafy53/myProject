@@ -3,5 +3,11 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
-    color: red;
+    color: yellowgreen;
+    margin-bottom: 30px;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: 100px 200px;
 }
